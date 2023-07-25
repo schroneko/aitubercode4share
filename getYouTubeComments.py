@@ -5,7 +5,7 @@ import json
 
 URL = 'https://www.googleapis.com/youtube/v3/'
 # ここにAPI KEYを入力
-API_KEY = 'AIzaSyB6j2I-k92CQSBcra0Um65402Wbak4j2tA'
+API_KEY = ''
 # ここにVideo IDを入力
 VIDEO_ID = 'EoRqjH8zt-U'
 
