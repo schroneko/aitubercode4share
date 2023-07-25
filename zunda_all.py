@@ -6,7 +6,7 @@ import os
 import simpleaudio as sa
 
 def responseFromOpenAI(message):
-    OPENAI_API_KEY="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"
+    OPENAI_API_KEY=""
 
     openai.api_key = os.getenv("OPENAI_API_KEY")
     openai.api_key = OPENAI_API_KEY
