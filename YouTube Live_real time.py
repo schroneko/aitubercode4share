@@ -5,7 +5,7 @@ import json
 #YouTubeのコメントをとるコード↓
 
 #事前に取得したYouTube API key
-YT_API_KEY = 'AIzaSyB6j2I-k92CQSBcra0Um65402Wbak4j2tA'
+YT_API_KEY = ''
 
 def get_chat_id(yt_url):
     '''
