@@ -3,7 +3,7 @@ import json
 
 #-------↓パラメータ入力↓-------
 
-APIKEY = 'AIzaSyB6j2I-k92CQSBcra0Um65402Wbak4j2tA' #
+APIKEY = '' #
 video_id = 'EoRqjH8zt-U' #ライブ配信中のみ
 
 #-------↑パラメータ入力↑-------
